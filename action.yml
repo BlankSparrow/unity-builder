@@ -1,6 +1,6 @@
-name: 'Unity - Builder'
-author: Webber Takken <webber@takken.io>
-description: 'Build Unity projects for different platforms.'
+name: 'Unity & Blender - Builder'
+author: Jeremy Craig <blanksparrow@outlook.com>
+description: 'Build Unity projects for different platforms. Based upon Webber Takken's Unity - Builder'
 inputs:
   unityVersion:
     required: false
